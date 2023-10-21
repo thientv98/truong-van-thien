@@ -37,9 +37,9 @@ The API Service Backend Module provides the following endpoints:
 
 ### **Get Top Scores Endpoint**
 
-**Endpoint:** `/api/score/top` 
-**Method:** `GET` 
-**Response**
+**Endpoint:** `/api/score/top` <br />
+**Method:** `GET` <br />
+**Response** <br />
 
 - Success: 200 OK
 
