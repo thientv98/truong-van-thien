@@ -6,10 +6,10 @@ The API Service Backend Module is responsible for receiving and processing reque
 
 # **Table of Contents**
 
-- Flow Diagram
-- API Documentation
-- Security
-- Conclusion
+- [Flow Diagram](https://github.com/thientv98/truong-van-thien-99tech/tree/main/src/problem6#flow-diagram)
+- [API Documentation](https://github.com/thientv98/truong-van-thien-99tech/tree/main/src/problem6#api-documentation)
+- [Additional Notes](https://github.com/thientv98/truong-van-thien-99tech/tree/main/src/problem6#additional-notes)
+- [Conclusion](https://github.com/thientv98/truong-van-thien-99tech/tree/main/src/problem6#conclusion)
 
 # **Flow Diagram**
 
@@ -114,7 +114,7 @@ The API Service Backend Module provides the following endpoints:
 - Proper error handling should be implemented to handle exceptional cases and return appropriate response codes and error messages.
 - Throttling mechanism should be implemented to prevent abuse and protect the system from excessive requests.
 
-# **Security**
+### Security
 
 To prevent unauthorized score updates, the API Service Backend Module integrates with an Authentication Service for authentication and authorization checks. The Authentication Service verifies the credentials of the user making the request and grants or denies access based on the user's authorization level.
 
