@@ -39,7 +39,7 @@ The API Service Backend Module provides the following endpoints:
 
 **Endpoint:** `/api/score/top` <br />
 **Method:** `GET` <br />
-**Response** <br />
+**Response**
 
 - Success: 200 OK
 
@@ -79,8 +79,8 @@ The API Service Backend Module provides the following endpoints:
 
 ### **Update Score Endpoint**
 
-**Endpoint:** `/api/score/update` 
-**Method:** `POST` 
+**Endpoint:** `/api/score/update`  <br />
+**Method:** `POST`  <br />
 **Request Body:**
 
 ```json
